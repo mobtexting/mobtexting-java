@@ -1,3 +1,7 @@
+# java plugin for mobtexting
+
+This package makes it easy to send [Mobtexting notifications](https://mobtexting.com).
+
 ## Installation
 
 You can install the package through jar, click [here](https://github.com/mobtexting/mobtexting-java/raw/master/Mobtexting.jar "here") to download
